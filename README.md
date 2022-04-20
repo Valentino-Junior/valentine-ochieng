@@ -100,15 +100,13 @@
 
 ## 📫 Contact Information:
 Email me via <a href="mailto:ojvalentine14@gmail.com"> ojvalentine14@gmail.com <br>
-[Linkedin](https://www.linkedin.com/in/levy-omolo/)
+[Linkedin](https://www.linkedin.com/in/valentine-ochieng-08164a138/)
 <p align="center">
   <a href="https://github.com/valentine-ochieng/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20ojvalentine14@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 
-<img align="right" alt="Developer Valentine Ochieng" src="code.gif" width="500" height="320" />
-
-
+<p> Developer Valentine Ochieng</p>
     
 ## Current Project ⚕
 <br>![](https://img.shields.io/badge/Web-apps-FE7A16?style=for-the-badge&logo=google-chrome&logoColor=white)
