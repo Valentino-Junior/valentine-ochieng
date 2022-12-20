@@ -50,7 +50,7 @@
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![](https://img.shields.io/badge/angular-777BB4?style=for-the-badge&logo=angular&logoColor=white) ![](https://img.shields.io/badge/react-777BB4?style=for-the-badge&logo=react&logoColor=white) ![](https://img.shields.io/badge/JQUERY-430098?style=for-the-badge&logo=JQUERY&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ## ⚡ Databases
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/SQLITE-4EA94B?style=for-the-badge&logo=sqlite&logoColor=white) 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/SQLITE-4EA94B?style=for-the-badge&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## ☁ Cloud Technologies
 ![](https://img.shields.io/badge/github_pages-232F3E?style=for-the-badge&logo=github&logoColor=white) ![](	https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
