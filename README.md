@@ -32,7 +32,7 @@
 
 <!-- BADGES -->
 <p align="left">
-<img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
+<img src="https://img.shields.io/badge/Interest-AI and Machine Learning-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
 <img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
 <img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
