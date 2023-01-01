@@ -44,11 +44,9 @@
 ## 👨‍💻 Programming Languages
 ![](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css-430098?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/python-276DC3?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/'-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=ffd60a) ![](https://img.shields.io/badge/typescript-777BB4?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="center">
 ##  🧰 Frameworks & Libraries
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![](https://img.shields.io/badge/angular-777BB4?style=for-the-badge&logo=angular&logoColor=white) ![](https://img.shields.io/badge/react-777BB4?style=for-the-badge&logo=react&logoColor=white) ![](https://img.shields.io/badge/Tailwind-092E20?style=for-the-badge&logo=Tailwind&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
- </div>
  
 ## ⚡ Databases
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/SQLITE-4EA94B?style=for-the-badge&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
