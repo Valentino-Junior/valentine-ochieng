@@ -70,32 +70,29 @@
 ![](https://img.shields.io/badge/figma-316192.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/coolors-0078D6.svg?&style=for-the-badge&logo=coolors&logoColor=white)
 
-<div align="center">
+
 ## 📊 GitHub Statistics
+
 #### Score
 <a href="https://github.com/valentine-ochieng/valentine-ochieng">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=valentine-ochieng&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Bryan's GitHub Stats" />
 </a>
-</div>
 
-<div align="center"> 
 #### Languages
           
   <a href="https://github.com/valentine-ochieng/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentine-ochieng&theme=highcontrast" />
 </a>
-</div>
 
 #### Consistency:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=valentine-ochieng&theme=highcontrast)](https://git.io/streak-stats)
 
 
-<div align="center"> 
 ### Achievements: 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=valentine-ochieng&margin-w=15&margin-h=15" />
 
-</div>
+
 
 
 ## 📫 Contact Information:
