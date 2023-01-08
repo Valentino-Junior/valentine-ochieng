@@ -87,6 +87,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentine-ochieng&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=valentine-ochieng&theme=react)](https://git.io/streak-stats)
+
 ### Achievements:
 
 <div align="center">  
